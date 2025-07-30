@@ -151,7 +151,7 @@
 
 ---
 
-### **🛒 [Motorized Trolley Design](https://github.com/xaatim/your-motorized-trolley-repo)**
+### **🛒 [Motorized Trolley Design](https://github.com/xaatim/motorized_trolley_design)**
 > **Efficient Material Handling** - A mechanical design project focusing on an ergonomically improved and motorized trolley solution for easier transport of goods.
 
 **🛠️ Tech Stack:** `SolidWorks` `Mechanical Design` `Electric Motors` `Battery Systems`
@@ -165,7 +165,7 @@
 
 ---
 
-### **🌊 [Hand Powered Beach Cleaner](https://github.com/xaatim/your-beach-cleaner-repo)**
+### **🌊 [Manual Beach Cleaner Design](https://github.com/xaatim/manual_beach_cleaner_design)**
 > **Sustainable Coastal Cleanup** - A manually operated mechanical device designed for efficient and eco-friendly collection of debris from beaches.
 
 **🛠️ Tech Stack:** `Mechanical Design` `Sustainable Engineering` `Manual Operation` `SolidWorks (for design)`
