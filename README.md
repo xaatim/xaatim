@@ -72,7 +72,7 @@
 
 ## 🌟 Featured Projects
 
-### **🤖 [Fully Autonomous Robot (ROS2 Powered)](https://github.com/xaatim/your-autonomous-robot-repo)** *(Final Year Project)*
+### **🤖 [Fully Autonomous Robot (ROS2 Powered)](https://github.com/xaatim/myFyp/tree/main/Sherlock_Robot_v0.x)** *(Final Year Project)*
 > **Intelligent Autonomy in Action** - An advanced mobile robot designed for surveillance and safety applications, leveraging ROS2 for navigation and perception.
 
 **🛠️ Tech Stack:** `ROS2` `Python` `OpenCV` `SLAM` `Raspberry Pi` `Arduino`
@@ -86,7 +86,7 @@
 
 ---
 
-### **🧤 [Glove Integrity Testing System (GITS)](https://github.com/xaatim/GITS)**
+### **🧤 [Glove Integrity Testing System (GITS)](https://github.com/xaatim/Glove-Integrity-Tester)**
 > **Ensuring Safety with Precision** - A cost-effective system designed to detect leaks in medical and laboratory gloves using pressure decay principles.
 
 **🛠️ Tech Stack:** `Arduino` `MPS20N0040D Pressure Sensor` `LCD` `Air Pump`
@@ -99,33 +99,33 @@
 
 ---
 
-### **🚜 [Semi-Autonomous Agriculture Robot](https://github.com/xaatim/your-agri-robot-repo)**
+### **🚜 [Semi-Autonomous Agriculture Robot](https://github.com/xaatim/Smart-Agricultural-Robot)**
 > **Revolutionizing Crop Management** - A field-ready robot engineered for efficient crop monitoring and basic mechanized agricultural tasks.
 
 **🛠️ Tech Stack:** `Arduino` `Raspberry Pi` `Computer Vision` `Sensors`
 
 **✨ Key Features:**
 - 🌿 **Crop Health Monitoring** using visual and environmental sensors
-- 🗺️ **Autonomous Path Planning** for efficient field coverage
+- 🗺️ **Semi-Autonomous Path Planning** for efficient field coverage
 - 🌾 **Basic Mechanized Task Execution** (e.g., localized spraying)
 - 📡 **Remote Control** and data feedback
 
 ---
 
-### **💳 [ATM System](https://github.com/xaatim/your-atm-system-repo)**
-> **Secure Transaction Simulator** - A C++ and Arduino-based simulation of an Automated Teller Machine, focusing on secure user interaction.
+### **💳 [ATM System](https://github.com/xaatim/ATM_System)**
+> **Secure Transaction Simulator** - A python based simulation of an Automated Teller Machine, focusing on secure user interaction.
 
-**🛠️ Tech Stack:** `C++` `Arduino`
+**🛠️ Tech Stack:** `Python` `NFC`
 
 **✨ Key Features:**
 - 🔒 **Secure PIN Authentication** and validation
 - 💸 **Basic Banking Operations** (Deposit, Withdraw, Check Balance)
 - 🔄 **Transaction Processing** and balance updates
-- ⌨️ **Interactive User Interface** via serial communication
+- ⌨️ **Interactive Command Line Interface** 
 
 ---
 
-### **🚗 [Pi-Controlled Arduino 4WD](https://github.com/xaatim/your-pi-arduino-4wd-repo)**
+### **🚗 [Pi-Controlled Arduino 4WD](https://github.com/xaatim/PI-Controlled_Arduino_4WD)**
 > **Versatile Mobile Platform** - A robust 4-wheel drive robot controlled by a Raspberry Pi, leveraging Arduino for precise motor control.
 
 **🛠️ Tech Stack:** `Python` `PySerial` `Arduino`
@@ -138,7 +138,7 @@
 
 ---
 
-### **🛡 [YOLO Intruder Alert](https://github.com/xaatim/your-yolo-intruder-repo)**
+### **🛡 [YOLO Intruder Alert](https://github.com/xaatim/Yolo_intruder_alert)**
 > **Intelligent Security Monitoring** - An object detection system that uses YOLO models to identify intruders and trigger real-time alerts.
 
 **🛠️ Tech Stack:** `YOLO` `OpenCV` `Raspberry Pi`
@@ -148,32 +148,6 @@
 - 🔔 **Instant Alerting System** (e.g., push notifications, email)
 - 📹 **Live Video Feed** for continuous surveillance
 - 📦 **Compact and Deployable** on Raspberry Pi hardware
-
----
-
-### **🌧 [Rain Alerting System](https://github.com/xaatim/your-rain-alert-repo)**
-> **Smart Weather Notification** - An automated system that detects rainfall and sends alerts for timely awareness and protection.
-
-**🛠️ Tech Stack:** `Arduino` `Rain Sensor` `Blynk/Notifications`
-
-**✨ Key Features:**
-- ☔ **Accurate Rain Detection** using a dedicated sensor
-- 📲 **Instant Notifications** to connected devices
-- ⚙️ **Configurable Alert Thresholds**
-- 🏠 **Simple Integration** into smart home setups
-
----
-
-### **🅿️ [Smart Parking Monitor](https://github.com/xaatim/your-parking-monitor-repo)**
-> **Optimizing Parking Spaces** - An IoT-based system that monitors parking bay occupancy in real-time, providing efficient space management.
-
-**🛠️ Tech Stack:** `Arduino` `Ultrasonic Sensors` `Blynk`
-
-**✨ Key Features:**
-- 📊 **Real-time Occupancy Status** for parking spots
-- 🖥️ **Intuitive Dashboard** via Blynk for visualization
-- 🔋 **Energy Efficient** sensor operation
-- 📏 **Accurate Distance Measurement** for detection
 
 ---
 
@@ -191,7 +165,7 @@
 
 ---
 
-### **🌊 [Beach Cleaner Hand Powered](https://github.com/xaatim/your-beach-cleaner-repo)**
+### **🌊 [Hand Powered Beach Cleaner](https://github.com/xaatim/your-beach-cleaner-repo)**
 > **Sustainable Coastal Cleanup** - A manually operated mechanical device designed for efficient and eco-friendly collection of debris from beaches.
 
 **🛠️ Tech Stack:** `Mechanical Design` `Sustainable Engineering` `Manual Operation` `SolidWorks (for design)`
