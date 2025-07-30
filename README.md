@@ -56,6 +56,8 @@
 ### **Design & Simulation**
 <p align="center">
   <img src="https://img.shields.io/badge/SolidWorks-FFC72D?style=for-the-badge&logo=solidworks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Engineering_Design-0078D6?style=for-the-badge&logoColor=white&labelColor=0078D6&color=blue"/>
+  <img src="https://img.shields.io/badge/Technical_Drawing-0078D6?style=for-the-badge&logoColor=white&labelColor=0078D6&color=blue"/>
 </p>
 
 ### **IoT & Cloud**
@@ -172,6 +174,34 @@
 - 🖥️ **Intuitive Dashboard** via Blynk for visualization
 - 🔋 **Energy Efficient** sensor operation
 - 📏 **Accurate Distance Measurement** for detection
+
+---
+
+### **🛒 [Motorized Trolley Design](https://github.com/xaatim/your-motorized-trolley-repo)**
+> **Efficient Material Handling** - A mechanical design project focusing on an ergonomically improved and motorized trolley solution for easier transport of goods.
+
+**🛠️ Tech Stack:** `SolidWorks` `Mechanical Design` `Electric Motors` `Battery Systems`
+
+**✨ Key Features:**
+- 💪 **Ergonomic Design** for reduced manual strain
+- ⚙️ **Integrated Electric Motor** for effortless movement
+- 🔋 **Rechargeable Battery System** for extended operation
+- 🛠️ **Robust Construction** for heavy-duty applications
+- 🗺️ **Optimized Maneuverability** in tight spaces
+
+---
+
+### **🌊 [Beach Cleaner Hand Powered](https://github.com/xaatim/your-beach-cleaner-repo)**
+> **Sustainable Coastal Cleanup** - A manually operated mechanical device designed for efficient and eco-friendly collection of debris from beaches.
+
+**🛠️ Tech Stack:** `Mechanical Design` `Sustainable Engineering` `Manual Operation` `SolidWorks (for design)`
+
+**✨ Key Features:**
+- 🌱 **Environmentally Friendly** operation with no emissions
+- 🖐️ **Simple, Hand-Powered Mechanism** for easy use
+- 🗑️ **Efficient Debris Collection** with a robust scooping/filtering system
+-  durability **Durable and Corrosion-Resistant Materials** for coastal environments
+- 🔄 **Low Maintenance** design
 
 ---
 
