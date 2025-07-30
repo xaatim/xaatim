@@ -179,15 +179,22 @@
 
 ---
 
-## 🛠 Upcoming Projects
+🛠 Upcoming Projects
 
-- 🗣 **IoT Real-Time Translator** – A compact, embedded device enabling live, multilingual communication.
-- 🏠 **Full Home Automation** – A centralized, AI-controlled smart home system integrating various IoT devices.
-- 🤖 **IoT AI Assistant** – A personal, voice-controlled AI assistant embedded in a custom device.
-- 📺 **Raspberry Pi Smart TV** – A custom smart media hub built using Raspberry Pi for a personalized entertainment experience.
-- 🦾 **4-Axis Robotic Arm** – Development of a desktop-scale robotic manipulator for precise pick-and-place or assembly tasks.
-- 🦾 **6-Axis Robotic Arm** – An advanced robotic arm project focusing on industrial-grade movements and complex manipulation.
+    🅿️ Smart Parking Monitor - IoT-based parking occupancy detection system using ultrasonic sensors and Blynk integration.
 
+    🌧 Rain Alerting System - Weather-triggered smart alert system using Arduino and rain sensors.
+
+    🗣 IoT Real-Time Translator – Compact device for live multilingual communication.
+
+    🏠 Full Home Automation – Centralized AI-controlled smart home system.
+
+    🤖 IoT AI Assistant – Voice-controlled embedded AI assistant.
+
+    🦾 4-Axis Robotic Arm – Desktop robotic manipulator for precise tasks.
+
+    🦾 6-Axis Robotic Arm – Industrial-grade robotic arm project.
+    
 ---
 
 ## 📊 GitHub Stats & Activity
