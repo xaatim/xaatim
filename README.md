@@ -3,7 +3,7 @@
 **`Mechanical Engineer | Robotics & IoT Developer | ROS2 Enthusiast`**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnd4Nnh4NWNkZ2dvYTF1N2RrbXdwZW1pd3QwMDgyZzU5eGlsZGt6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </p>
 
 <p align="center">
