@@ -214,28 +214,6 @@
 
 ---
 
-## 🖥️ My Battle Station
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CPU-Intel_Core_i7_or_Ryzen_7-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPU-NVIDIA_RTX_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-32GB_DDR4_or_DDR5-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSD-1TB_NVMe-4ECDC4?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
-**💻 Robotics & Development Setup**
-- **Primary OS:** Ubuntu (for ROS2 development)
-- **Secondary:** Windows (for general use/software requiring Windows)
-- **Key Hardware:** Focus on robust performance for simulations and data processing
-- **Use Cases:** Gaming, video editing, robotics simulations, embedded systems programming, AI model training
-
----
-
 ## 🎓 Academic Journey
 
 - 📚 **Bachelor's in Mechanical Engineering** at Universiti Tun Hussein Onn Malaysia (UTHM)
