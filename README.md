@@ -166,10 +166,11 @@ Biometric fingerprint + RFID-based billing, automated flow control, and usage lo
 
 <p align="center">
   <a href="mailto:xayari229@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hatim-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hatim-ahmed-713214194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <i>"Mechanical roots, software wings."</i>
 </p>
+
 
