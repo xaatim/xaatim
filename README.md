@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=xaatim">
-    <img src="https://github-profile-trophy.vercel.app/?username=xaatim&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&margin-w=10&no-bg=true" width="100%"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Building%20Robots%20That%20Work&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=Mechanical%20Engineer%20%7C%20Robotics%20%7C%20IoT%20%7C%20Beam%20Robotics&descAlignY=62&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="right">
@@ -116,7 +114,7 @@ Multi-tenant authentication, cryptographic serial key binding per physical devic
 
 ---
 
-### Smart Water Control System
+### Smart Water Control System *(deployed)*
 > Automated water distribution and billing system for water purification companies.
 
 Biometric fingerprint + RFID-based billing, automated flow control, and usage logging — deployed in infrastructure-constrained environments.
@@ -168,13 +166,13 @@ Biometric fingerprint + RFID-based billing, automated flow control, and usage lo
 
 <p align="center">
   <a href="mailto:xayari229@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hatim-ahmed-713214194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hatim-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
 
 <p align="center">
-  <i>"Build things that work in the real world."</i>
+  <img src="https://raw.githubusercontent.com/xaatim/xaatim/output/github-snake.svg" alt="GitHub Snake"/>
 </p>
 
-
-
+<p align="center">
+  <i>"Mechanical roots, software wings."</i>
+</p>
