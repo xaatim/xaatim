@@ -116,7 +116,7 @@ Multi-tenant authentication, cryptographic serial key binding per physical devic
 
 ---
 
-### Smart Water Control System *(deployed)*
+### Smart Water Control System
 > Automated water distribution and billing system for water purification companies.
 
 Biometric fingerprint + RFID-based billing, automated flow control, and usage logging — deployed in infrastructure-constrained environments.
@@ -178,3 +178,4 @@ Biometric fingerprint + RFID-based billing, automated flow control, and usage lo
 <p align="center">
   <i>"Build things that work in the real world."</i>
 </p>
+
