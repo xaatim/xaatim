@@ -171,11 +171,9 @@ Biometric fingerprint + RFID-based billing, automated flow control, and usage lo
   <a href="https://www.linkedin.com/in/hatim-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xaatim/xaatim/output/github-snake.svg" alt="GitHub Snake"/>
-</p>
 
 <p align="center">
   <i>"Build things that work in the real world."</i>
 </p>
+
 
