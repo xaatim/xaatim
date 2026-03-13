@@ -170,9 +170,6 @@ Biometric fingerprint + RFID-based billing, automated flow control, and usage lo
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xaatim/xaatim/output/github-snake.svg" alt="GitHub Snake"/>
-</p>
-
-<p align="center">
   <i>"Mechanical roots, software wings."</i>
 </p>
+
