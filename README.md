@@ -180,10 +180,4 @@ A pressure decay based leak detector built for manufacturing quality control. Si
 
 *Mechanical roots, software wings.*
 
----
-
-<div align="center">
-
-*Mechanical roots, software wings.*
-
 </div>
