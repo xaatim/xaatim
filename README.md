@@ -162,16 +162,23 @@ A pressure decay based leak detector built for manufacturing quality control. Si
 
 ---
 
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xaatim&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaatim&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html"/>
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=xaatim&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaatim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaatim&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaatim&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+<div align="center">
+
+*Mechanical roots, software wings.*
 
 ---
 
