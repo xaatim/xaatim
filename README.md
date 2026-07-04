@@ -8,6 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Robotics+Developer;IoT+Systems+Builder;ROS2+%26+Computer+Vision;Hardware+%26+Software+Integration" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-xaatim.github.io-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://xaatim.github.io/hatim-portfolio/)
 [![Email](https://img.shields.io/badge/Email-xayari229%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:xayari229@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20Ahmed%20Hassan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-ahmed-713214194/)
 [![GitHub](https://img.shields.io/badge/GitHub-xaatim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xaatim)
