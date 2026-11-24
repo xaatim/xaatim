@@ -86,6 +86,15 @@ Beam Robotics is an applied robotics initiative I founded to take autonomous sys
 
 ## Featured Projects
 
+### [Beam TrackBot V3](https://github.com/xaatim/beam_trackbot_v3)
+**Next-generation tracked mobile manipulation platform for precision agriculture**
+
+Builds on AgroBot V2 by pairing an AgileX Bunker Mini 2.0 tracked base with a Universal Robots UR3e 6-DOF manipulator for rough-terrain mobility and flexible nozzle orientation. Integrates a mast-mounted sensor tower with a Hesai XT32 3D LiDAR and dual RealSense cameras alongside an eye-in-hand depth camera and watering nozzle, with WiFi HaLow connectivity for extended field range. Mechanical CAD design is complete, animation is underway, and `robot_description` setup has begun.
+
+`ROS2 Humble` · `MoveIt2` · `Bunker Mini 2.0` · `UR3e` · `Hesai XT32` · `RealSense`
+
+---
+
 ### [Beam AgroBot V2](https://github.com/xaatim/beam_agrobot_v2)
 **Fully autonomous mobile manipulator for precision agriculture**
 
